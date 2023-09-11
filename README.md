@@ -2,3 +2,4 @@
 nå skal vi lære å kode 
 morro
 Bertil Windows 11
+OlsenLene
